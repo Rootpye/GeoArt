@@ -10,3 +10,4 @@ pip install matplotlib
 # Quick Start
 - Download and run main.py
 - Choose figure what you want to draw
+- Click generate button
