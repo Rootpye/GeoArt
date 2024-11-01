@@ -11,3 +11,4 @@ pip install matplotlib
 - Download and run main.py
 - Choose figure what you want to draw
 - Change other options and click generate button
+- After generate, you can see drawing
