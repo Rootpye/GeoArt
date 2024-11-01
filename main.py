@@ -5,7 +5,7 @@ from tkinter import Tk, Label, Button, OptionMenu, StringVar, Scale, HORIZONTAL
 class MathArtApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Mathematical Art Generator")
+        self.root.title("GeoArt")
         
         self.label = Label(root, text="Select Curve:")
         self.label.pack()
