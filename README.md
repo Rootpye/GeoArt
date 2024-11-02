@@ -1,5 +1,6 @@
 # GeoArt
-This program is for draw figures with math.
+This program is for draw shapes with geometry.
+You can choose +20 shapes that using geometry (More shapes soon).
 
 # install
 ``` python
@@ -9,6 +10,6 @@ pip install matplotlib
 
 # Quick Start
 - Download and run main.py
-- Choose figure what you want to draw
-- Change other options and click generate button
-- After generate, you can see drawing
+- Choose shape what you want to draw
+- Edit frequency and phase
+- Click generate button
