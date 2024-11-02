@@ -1,7 +1,7 @@
 # GeoArt
 This program is for draw shapes with geometry.
 
-You can choose +20 shapes that using geometry (More shapes soon).
+You can choose 20+ shapes that using geometry (More shapes soon).
 
 # install
 ``` python
